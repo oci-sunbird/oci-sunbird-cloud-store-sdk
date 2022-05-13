@@ -26,5 +26,5 @@ This repo is NOT a direct fork from the original GitHub repo.
 The repo is downloaded from Maven Central
   https://repo1.maven.org/maven2/org/sunbird/cloud-store-sdk/1.3.0/cloud-store-sdk-1.3.0-sources.jar
 
-Support for OCI Object Storage Services will be added in this repo
+- Support for OCI Object Storage Services will be added in this repo
 
