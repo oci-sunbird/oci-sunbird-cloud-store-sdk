@@ -6,4 +6,5 @@
 src/test/resources/test*
 .cache*
 .DS_Store
+/META-INF/
 *.kenneth.txt
