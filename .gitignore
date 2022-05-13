@@ -1,0 +1,9 @@
+/target/
+.classpath
+.project
+.settings
+.idea/
+src/test/resources/test*
+.cache*
+.DS_Store
+*.kenneth.txt
